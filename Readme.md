@@ -1,1 +1,1 @@
-hello adaptive!
+hello ad!
